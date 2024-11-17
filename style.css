@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    margin: 10px;
+}
+.container{
+    position: relative;
+    height: 800px;
+    width: 800px;
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+    left:500px;
+}
+.box{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    border-radius: 25px;
+    border: 5px solid black;
+}
+.one{
+    top:0;
+    left:0;
+    background-color: palevioletred;
+}
+.two{
+    top:0;
+    right:0;
+    background-color: aquamarine;
+}
+.three{
+    background-color: chocolate;
+    bottom:0;
+    left:0;
+}
+.four{
+    background-color: rgb(154, 125, 248);
+    bottom:0;
+    right:0;
+}
+.anime{
+    background-color: white;
+
+}
+.game{
+    background-color: green;
+}
