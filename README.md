@@ -10,7 +10,6 @@ Welcome to the **Simon Says Game**! 🎮 This project is a fun and interactive m
 - 🎨 **Interactive UI**: Bright and engaging design for a fun gaming experience.
 - 🎵 **Sound Effects**: Each button press produces a unique sound.
 - ⏳ **Increasing Difficulty**: The sequence grows longer and faster as you progress.
-- 🎉 **Game Feedback**: Alerts when the player succeeds or makes a mistake.
 - 🧠 **Memory Challenge**: Improve your memory skills with every round!
 
 ---
@@ -54,7 +53,7 @@ Welcome to the **Simon Says Game**! 🎮 This project is a fun and interactive m
 
 ## 🌟 Demo
 
-[Live Demo](#) (Add your demo link here)
+https://vatsal-sharma2003.github.io/Simons-Game/
 
 ---
 
@@ -78,22 +77,5 @@ Contributions are welcome! If you'd like to improve the game, feel free to:
 2. Create a new branch.
 3. Make your changes and test them.
 4. Submit a pull request with a detailed explanation of your changes.
-
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📧 Contact
-
-For questions or suggestions, feel free to reach out:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-
----
 
 Happy playing! 🎮✨
